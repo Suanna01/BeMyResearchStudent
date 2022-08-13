@@ -1,4 +1,10 @@
 # 내 연구생이 되어줘!
 컴퓨터공학과 교수님을 공략해서 연구생이 되는 게임!
 
-![image](https://user-images.githubusercontent.com/86403488/184475311-ec95f173-7216-4875-b7ba-967af03ea58c.png)
+![image](https://user-images.githubusercontent.com/86403488/184475363-9fae02e7-2339-4583-a8c2-55407930c6f6.png)
+
+### 주요기능
+- 대화 시스템
+- 답변 선택지 시스템
+- 호감도 시스템
+
